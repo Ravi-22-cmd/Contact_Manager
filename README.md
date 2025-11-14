@@ -1,4 +1,4 @@
-# 📇 Advanced Contact Manager (Python Project)
+#Contact Manager (Python Project)
 
 A fully–featured, production-style Contact Manager built in Python.  
 Supports CSV & JSON storage, daily automatic backups, undo system, searching, tags, favorites, vCard export, and advanced error handling.
